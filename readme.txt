@@ -16,8 +16,6 @@ Search Tags in content and convert tags to tags link.
 
 Plugin by UX-Theme.
 
-== Installation ==
-
 == Screenshots ==
 
 1. ** Before Active ** - Content only text.
