@@ -12,9 +12,7 @@ Convert tags in post content to links.
 
 == Description ==
 
-Search Tags in content and convert tags to tags link.
-
-Plugin by UX-Theme.
+Automatic Search Tags in content and convert tags to tags link. optimization seo . Plugin by UX-Theme.
 
 == Screenshots ==
 
