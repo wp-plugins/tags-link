@@ -8,13 +8,15 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Convert tags in content to links.
+Convert tags in post content to links.
 
 == Description ==
 
-== Installation ==
+Search Tags in content and convert tags to tags link.
 
-== Frequently Asked Questions ==
+Plugin by UX-Theme.
+
+== Installation ==
 
 == Screenshots ==
 
@@ -22,7 +24,3 @@ Convert tags in content to links.
 
 = 1.0.0 =
 ! Initial Release.
-
-== Arbitrary section ==
-
-== A brief Markdown Example ==
