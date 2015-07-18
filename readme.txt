@@ -20,6 +20,9 @@ Plugin by UX-Theme.
 
 == Screenshots ==
 
+1. ** Before Active ** - Content only text.
+2. ** After Active  ** - Tags link show.
+
 == Changelog ==
 
 = 1.0.0 =
