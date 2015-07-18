@@ -8,21 +8,15 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-== Description ==
+Convert tags in content to links.
 
-CONVERT TAGS IN CONTENT TO LINK.
+== Description ==
 
 == Installation ==
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
-
-= What about foo bar? =
-
 == Screenshots ==
-
-assets/screenshot_1.png
 
 == Changelog ==
 
